@@ -1,6 +1,6 @@
 // csv2json - converts customer data from CSV format to JSON
 // edX - Introduction to NodeJS - Module 1 assignment
-// 27 Nov 2017 - Ewan T
+// 27 Nov 2017 - Ewan T.
 const csv = require('csvtojson')
 const fs = require('fs')
 const path = require('path')
