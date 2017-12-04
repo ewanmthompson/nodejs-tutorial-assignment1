@@ -7,6 +7,7 @@ This project converts customer data from csv format to json.
 # Usage
 
 $ npm i csv2json
+
 $ node csv2json
 
 # Design
